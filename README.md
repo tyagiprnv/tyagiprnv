@@ -32,6 +32,10 @@ A **three-phase ML + agentic pipeline** that only produces explanations when evi
 - Combines statistical rigour with LLM reasoning  
 - Models *uncertainty* instead of hiding it
 
+**System Metrics**
+- ~35–50% of detected anomalies intentionally rejected as `"Unknown"`
+- End-to-end latency: ~5–15s per anomaly
+
 **Engineering highlights**
 - Workflow-first architecture (predictable, testable)
 - Deterministic replay mode for reproducible testing
@@ -60,10 +64,10 @@ A **low-latency, cost-optimised, and fully monitored AI agent** with strong safe
 - Fast-path guardrails (~90ms) using regex topic filters
 - Direct template substitution for zero-token responses
 
-**Measured performance**
-- p50 latency: ~90ms  
-- p99 latency: ~5s  
-- ~60% of requests served without an LLM call
+**System Metrics**
+- ~60% of requests served without any LLM call
+- p50 latency ~90ms, p99 ~5s
+- ~70–90% reduction in cost per request vs LLM-only baseline
 
 **Production features**
 - PII redaction and topic filtering
