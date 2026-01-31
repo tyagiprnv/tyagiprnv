@@ -34,6 +34,7 @@ A **three-phase ML + agentic pipeline** that only produces explanations when evi
 
 **System Metrics**
 - ~35–50% of detected anomalies intentionally rejected as `"Unknown"`
+- ~60–70% narrative validation pass rate
 - End-to-end latency: ~5–15s per anomaly
 
 **Engineering highlights**
