@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pranav Tyagi
 
-I’m an **ML / AI Engineer** focused on building **reliable, production-grade AI systems** where correctness, latency, and cost matter more than flashy demos.
+I’m an **ML / AI Engineer** focused on building **production-grade ML & LLM systems** — especially where correctness, latency, and cost matter more than flashy demos.
 
 My work centres on:
 - LLM systems with **guardrails**
@@ -20,7 +20,7 @@ Market dashboards show *what* moved, but rarely *why*. Naive LLM approaches hall
 **Solution**  
 A **three-phase ML + agentic pipeline** that only produces explanations when evidence supports them.
 
-**How it works**
+**System Design**
 - Deterministic detection: Z-score, Bollinger Bands, volume spikes  
 - Causal filtering: News constrained to ±30-minute windows  
 - LLM investigation: Tool-using agent gathers context  
@@ -38,10 +38,10 @@ A **three-phase ML + agentic pipeline** that only produces explanations when evi
 - Multi-provider LLM support via LiteLLM
 - Cost-optimized: **$0/month in production** using free RSS sources
 
-**Tech stack**  
-Python · PostgreSQL · SQLAlchemy · sentence-transformers · HDBSCAN · LiteLLM
+**Role:** End-to-end design and implementation  
+**Tech stack:** Python · PostgreSQL · SQLAlchemy · sentence-transformers · HDBSCAN · LiteLLM  
 
-🔗 **Repository:** https://github.com/tyagiprnv/market-anomaly-narrative-engine
+🔗 https://github.com/tyagiprnv/market-anomaly-narrative-engine
 
 ---
 
@@ -72,10 +72,10 @@ A **low-latency, cost-optimised, and fully monitored AI agent** with strong safe
 - Docker Compose deployment
 - Unit, integration, and E2E tests
 
-**Tech stack**  
-LangGraph · FastAPI · Qdrant · OpenAI embeddings · Groq (LLaMA 3.1) · Prometheus · Grafana · Docker
+**Role:** End-to-end design and implementation  
+**Tech stack:** LangGraph · FastAPI · Qdrant · OpenAI embeddings · Groq (LLaMA 3.1) · Prometheus · Grafana · Docker  
 
-🔗 **Repository:** https://github.com/tyagiprnv/ai-guest-response-agent
+🔗 https://github.com/tyagiprnv/ai-guest-response-agent
 
 ---
 
