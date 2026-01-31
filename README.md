@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pranav Tyagi
 
-I’m an **ML / AI Engineer** focused on building **reliable, production-grade AI systems** — especially where correctness, latency, and cost matter more than flashy demos.
+I’m an **ML / AI Engineer** focused on building **reliable, production-grade AI systems** where correctness, latency, and cost matter more than flashy demos.
 
 My work centres on:
 - LLM systems with **guardrails**
