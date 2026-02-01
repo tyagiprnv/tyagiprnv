@@ -13,6 +13,13 @@ Focused on correctness, latency, cost, and *explicit uncertainty* — not demos.
 
 ---
 
+### 🧠 Experience Snapshot
+- **Applied ML Intern, Portfolio Management** — Ansa Capital (Finance, live trading signals)
+- **ML Engineer (Working Student)** — SAP (LLM evaluation, anonymisation, infra)
+- **Data Scientist** — SparkTG (NLP, speech, analytics at scale)
+
+---
+
 ### 🚀 Selected Projects
 - **Market Anomaly Narrative Engine (MANE)**  
   Hallucination-resistant system that explains crypto price anomalies *only when evidence exists*.  
@@ -26,13 +33,6 @@ Focused on correctness, latency, cost, and *explicit uncertainty* — not demos.
 - **Sentinel**  
   GenAI-powered PII redaction & compliance gateway with deterministic + LLM layers.  
   → https://github.com/tyagiprnv/sentinel
-
----
-
-### 🧠 Experience Snapshot
-- **Applied ML Intern, Portfolio Management** — Ansa Capital (Finance, live trading signals)
-- **ML Engineer (Working Student)** — SAP (LLM evaluation, anonymisation, infra)
-- **Data Scientist** — SparkTG (NLP, speech, analytics at scale)
 
 ---
 
