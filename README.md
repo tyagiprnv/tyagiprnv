@@ -12,10 +12,6 @@ AI / ML Engineer • Production LLM Systems • RAG • Agentic Systems
 <a href="https://www.linkedin.com/in/pranav-tyagii/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="22"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:***REMOVED***">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20"/>
-</a>
 </p>
 
 ---
