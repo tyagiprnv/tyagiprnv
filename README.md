@@ -1,97 +1,47 @@
-# 👋 Hi, I’m Pranav Tyagi
+## 👋 Hi, I’m Pranav Tyagi
 
-I’m an **ML / AI Engineer** focused on building **production-grade ML & LLM systems** where correctness, latency, and cost matter more than flashy demos.
-
-My work centres on:
-- LLM systems with **guardrails**
-- **Agentic workflows** with deterministic cores
-- ML systems that **explain outputs or explicitly return uncertainty**
+**AI / ML Engineer** building **production-grade ML & LLM systems**  
+Focused on correctness, latency, cost, and *explicit uncertainty* — not demos.
 
 ---
 
-## 🔍 Selected Projects
-
-### 🧠 Market Anomaly Narrative Engine (MANE)
-**Detect crypto price anomalies. Explain why they happened. Never hallucinate.**
-
-**Problem**  
-Market dashboards show *what* moved, but rarely *why*. Naive LLM approaches hallucinate causal stories between unrelated events — unacceptable in quantitative finance.
-
-**Solution**  
-A **three-phase ML + agentic pipeline** that only produces explanations when evidence supports them.
-
-**System Design**
-- Deterministic detection: Z-score, Bollinger Bands, volume spikes  
-- Causal filtering: News constrained to ±30-minute windows  
-- LLM investigation: Tool-using agent gathers context  
-- Sceptical validation: Rule-based checks + Judge LLM  
-- Fail-safe output: Returns `"Unknown"` if causality is unproven
-
-**Why it matters**
-- Prevents hallucinated financial narratives  
-- Combines statistical rigour with LLM reasoning  
-- Models *uncertainty* instead of hiding it
-
-**System Metrics**
-- ~35–50% of detected anomalies intentionally rejected as `"Unknown"`
-- ~60–70% narrative validation pass rate
-- End-to-end latency: ~5–15s per anomaly
-
-**Engineering highlights**
-- Workflow-first architecture (predictable, testable)
-- Deterministic replay mode for reproducible testing
-- Multi-provider LLM support via LiteLLM
-- Cost-optimized: **$0/month in production** using free RSS sources
-
-**Role:** End-to-end design and implementation  
-**Tech stack:** Python · PostgreSQL · SQLAlchemy · sentence-transformers · HDBSCAN · LiteLLM  
-
-🔗 https://github.com/tyagiprnv/market-anomaly-narrative-engine
+### 🔧 What I work on
+- **LLM systems with guardrails & evaluation**
+- **Agentic workflows with deterministic cores**
+- **Hybrid systems** (rules + ML + LLMs)
+- Finance, marketplaces, real-world decision systems
 
 ---
 
-### 🏨 AI Guest Response Agent
-**Production-quality AI agent for accommodation guest inquiries**
+### 🚀 Selected Projects
+- **Market Anomaly Narrative Engine (MANE)**  
+  Hallucination-resistant system that explains crypto price anomalies *only when evidence exists*.  
+  → https://github.com/tyagiprnv/market-anomaly-narrative-engine
 
-**Problem**  
-Most LLM agents are too slow, expensive, and unsafe for real production use.
+- **AI Guest Response Agent**  
+  Low-latency, cost-optimised production agent with safety-first routing.  
+  ~60% requests served without LLM calls.  
+  → https://github.com/tyagiprnv/ai-guest-response-agent
 
-**Solution**  
-A **low-latency, cost-optimised, and fully monitored AI agent** with strong safety guardrails.
-
-**Key design decisions**
-- Template-first RAG to avoid unnecessary LLM calls
-- LangGraph-based agentic routing
-- Fast-path guardrails (~90ms) using regex topic filters
-- Direct template substitution for zero-token responses
-
-**System Metrics**
-- ~60% of requests served without any LLM call
-- p50 latency ~90ms, p99 ~5s
-- ~70–90% reduction in cost per request vs LLM-only baseline
-
-**Production features**
-- PII redaction and topic filtering
-- LangSmith tracing
-- Prometheus metrics + Grafana dashboards
-- Docker Compose deployment
-- Unit, integration, and E2E tests
-
-**Role:** End-to-end design and implementation  
-**Tech stack:** LangGraph · FastAPI · Qdrant · OpenAI embeddings · Groq (LLaMA 3.1) · Prometheus · Grafana · Docker  
-
-🔗 https://github.com/tyagiprnv/ai-guest-response-agent
+- **Sentinel**  
+  GenAI-powered PII redaction & compliance gateway with deterministic + LLM layers.  
+  → https://github.com/tyagiprnv/sentinel
 
 ---
 
-## 🧩 Interests & Focus Areas
-- ML systems combining **deterministic logic + learned models**
-- LLM evaluation, guardrails, and failure analysis
-- Cost-efficient and latency-aware AI architectures
-- Applied ML in finance, marketplaces, and real-world decision systems
+### 🧠 Experience Snapshot
+- **Applied ML Intern, Portfolio Management** — Ansa Capital (Finance, live trading signals)
+- **ML Engineer (Working Student)** — SAP (LLM evaluation, anonymisation, infra)
+- **Data Scientist** — SparkTG (NLP, speech, analytics at scale)
 
 ---
 
-## 📫 Get in Touch
-- GitHub: https://github.com/tyagiprnv
+### 🧰 Tech I use
+`Python` · `PyTorch` · `LLMs` · `RAG` · `LangGraph` · `FastAPI` ·  
+`PostgreSQL` · `Docker` · `Kubernetes` · `Prometheus` · `Grafana`
+
+---
+
+### 📫 Find me
+- GitHub: https://github.com/tyagiprnv  
 - LinkedIn: https://www.linkedin.com/in/pranav-tyagii/
