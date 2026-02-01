@@ -1,47 +1,65 @@
-## 👋 Hi, I’m Pranav Tyagi
+<h2 align="center">👋 Pranav Tyagi</h2>
 
-**AI / ML Engineer** building **production-grade ML & LLM systems**  
-Focused on correctness, latency, cost, and *explicit uncertainty* — not demos.
+<p align="center">
+<b>AI / ML Engineer</b> • Production LLM Systems • RAG • Agentic Systems
+</p>
 
----
-
-### 🔧 What I work on
-- **LLM systems with guardrails & evaluation**
-- **Agentic workflows with deterministic cores**
-- **Hybrid systems** (rules + ML + LLMs)
-- Finance, marketplaces, real-world decision systems
-
----
-
-### 🧠 Experience Snapshot
-- **Applied ML Intern, Portfolio Management** — Ansa Capital (Finance, live trading signals)
-- **ML Engineer (Working Student)** — SAP (LLM evaluation, anonymisation, infra)
-- **Data Scientist** — SparkTG (NLP, speech, analytics at scale)
+<p align="center">
+<a href="https://github.com/tyagiprnv">
+  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/pranav-tyagii/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:***REMOVED***">
+  <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🚀 Selected Projects
-- **Market Anomaly Narrative Engine (MANE)**  
-  Hallucination-resistant system that explains crypto price anomalies *only when evidence exists*.  
-  → https://github.com/tyagiprnv/market-anomaly-narrative-engine
+### 🧠 What I build
+**ML and LLM systems designed for real decisions.**  
+Strong defaults, clear failure modes, and room for uncertainty.
+
+- Guardrailed LLM pipelines  
+- Agentic workflows with deterministic cores  
+- Cost and latency aware system design  
+- Evaluation, observability, and failure analysis  
+
+---
+
+### 🚀 Selected work
+- **Market Anomaly Narrative Engine**  
+  Evidence-driven explanations for crypto price anomalies  
+  🔗 https://github.com/tyagiprnv/market-anomaly-narrative-engine
 
 - **AI Guest Response Agent**  
-  Low-latency, cost-optimised production agent with safety-first routing.  
-  ~60% requests served without LLM calls.  
-  → https://github.com/tyagiprnv/ai-guest-response-agent
+  Production agent with fast-path routing and minimal LLM usage  
+  🔗 https://github.com/tyagiprnv/ai-guest-response-agent
 
 - **Sentinel**  
-  GenAI-powered PII redaction & compliance gateway with deterministic + LLM layers.  
-  → https://github.com/tyagiprnv/sentinel
+  GenAI powered PII redaction and compliance gateway  
+  🔗 https://github.com/tyagiprnv/sentinel
 
 ---
 
-### 🧰 Tech I use
-`Python` · `PyTorch` · `LLMs` · `RAG` · `LangGraph` · `FastAPI` ·  
-`PostgreSQL` · `Docker` · `Kubernetes` · `Prometheus` · `Grafana`
+### 🏗️ Experience
+**Ansa Capital** • Applied ML for live trading signals  
+**SAP** • LLM evaluation, anonymisation, ML infrastructure  
+**SparkTG** • NLP, speech, analytics at scale  
 
 ---
 
-### 📫 Find me
-- GitHub: https://github.com/tyagiprnv  
-- LinkedIn: https://www.linkedin.com/in/pranav-tyagii/
+### 🛠️ Stack
+<p align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="28"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="28"/>
+</p>
