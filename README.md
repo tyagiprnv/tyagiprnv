@@ -6,13 +6,14 @@ AI / ML Engineer • Production LLM Systems • RAG • Agentic Systems
 
 <p align="center">
 <a href="https://github.com/tyagiprnv">
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="20"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="20"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pranav-tyagii/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="22"/>
 </a>
 </p>
+
 
 ---
 
