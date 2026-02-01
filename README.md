@@ -9,10 +9,17 @@ AI / ML Engineer • Production LLM Systems • RAG • Agentic Systems
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="20"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/pranav-tyagii/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="22"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:pranav.tyagi.ai@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="22"/>
+</a>
 </p>
+
 
 
 ---
