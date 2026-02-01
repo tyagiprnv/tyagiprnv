@@ -27,7 +27,22 @@ Strong defaults, clear failure modes, and room for uncertainty.
 - Guardrailed LLM pipelines  
 - Agentic workflows with deterministic cores  
 - Cost and latency aware system design  
-- Evaluation, observability, and failure analysis  
+- Evaluation, observability, and failure analysis
+
+---
+
+### Stack
+<p align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="30"/>
+</p>
 
 ---
 
@@ -51,17 +66,4 @@ Ansa Capital • Applied ML for live trading signals
 SAP • LLM evaluation, anonymisation, ML infrastructure  
 SparkTG • NLP, speech, analytics at scale  
 
----
 
-### Stack
-<p align="center">
-<img src="https://cdn.simpleicons.org/python/3776AB" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" height="30"/>
-</p>
